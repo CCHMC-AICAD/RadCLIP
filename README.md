@@ -1,5 +1,29 @@
 This is the official Repository of RadCLIP: RadCLIP: Enhancing Radiologic Image Analysis Through Contrastive Language–Image Pretraining (https://pubmed.ncbi.nlm.nih.gov/40434863/)
 
+## Acknowledgments
+
+This work was supported by the National Institutes of Health under Grant **R01-EB030582**.
+
+## Reference
+
+Lu Z, Li H, Parikh NA, Dillman JR, He L. RadCLIP: Enhancing radiologic image analysis through contrastive language-image pretraining. *IEEE Transactions on Neural Networks and Learning Systems*. 2025;36(10):17613–17622. doi: 10.1109/TNNLS.2025.3568036.
+
+```bibtex
+@article{lu2025radclip,
+  title   = {{RadCLIP}: Enhancing Radiologic Image Analysis Through Contrastive Language--Image Pretraining},
+  author  = {Lu, Zhixiu and Li, Hailong and Parikh, Nehal A. and Dillman, Jonathan R. and He, Lili},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  volume  = {36},
+  number  = {10},
+  pages   = {17613--17622},
+  year    = {2025},
+  month   = oct,
+  doi     = {10.1109/TNNLS.2025.3568036},
+  pmid    = {40434863},
+  pmcid   = {PMC12498476}
+}
+```
+
 # RadCLIP
 RadCLIP is trained on over 1.15 million 2D radiologic image–text pairs and 52,766 3D volumetric pairs spanning X-ray, CT, and MRI, drawn from 14 public collections.
 
